@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/repeated-substring-pattern
+
 /**
  * @param {string} s
  * @return {boolean}

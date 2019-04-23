@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/goat-latin
+
 /**
  * @param {string} S
  * @return {string}

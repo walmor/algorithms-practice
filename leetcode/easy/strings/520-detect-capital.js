@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/detect-capital
+
 /**
  * @param {string} word
  * @return {boolean}

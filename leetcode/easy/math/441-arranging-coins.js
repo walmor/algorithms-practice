@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/arranging-coins
+
 /**
  * @param {number} n
  * @return {number}

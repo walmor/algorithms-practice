@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/ransom-note
+
 /**
  * @param {string} ransomNote
  * @param {string} magazine
